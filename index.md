@@ -14,7 +14,7 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite: 65089653907          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "University Of Manchester"
-    address: "Room FIXME, Kilburn Building, Oxford Road, Manchester, M13 9PL."
+    address: "Atlas room 1, Kilburn Building, Oxford Road, Manchester, M13 9PL."
     latlng: "53.483959, -2.244644"
 
 ---
@@ -121,6 +121,8 @@ This is an online event. We will meet using the online videoconference software 
 {% endfor %}
 
 {% if inperson == "true" %}
+
+Atlas room 1 is on the first floor -- see [floor plan](https://studentnet.cs.manchester.ac.uk/resources/floorplans/Kilburn_1.jpg) for location.
 
 <h4 id="accessibility">Accessibility</h4>
 
