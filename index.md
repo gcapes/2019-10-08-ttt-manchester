@@ -14,7 +14,7 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite: 65089653907          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "University Of Manchester"
-    address: "Room FIXME, Kilburn Building, Wilmslow Road, Manchester"
+    address: "Room FIXME, Kilburn Building, Oxford Road, Manchester, M13 9PL."
     latlng: "53.483959, -2.244644"
 
 ---
