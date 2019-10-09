@@ -50,9 +50,9 @@
 - some aspects were common sense, but in new ways
 - home work
 
-# End of Day 2: One up one down
+# End of Day 2: one up, one down
 
-## Positive/went well
+## Up/positive/went well
 Live coding interesting and also how to do official workshops
 Liked faded examples
 Liked videoed exercises, useful, not seen myself before on screen
@@ -63,7 +63,7 @@ Trainers presented well, it went smoothly
 Lot of content
 Pre-workshop communication was really good
 
-## Negative/to improve
+## Down/negative/to improve
 Building website exercise could have been done as homework, no point in doing it in class
 Instructors to come more down to learners to give feedback, get our level of feedback
 Loads of different pages to open, overwhelming
