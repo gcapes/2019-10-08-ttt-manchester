@@ -72,24 +72,27 @@
 # End of Day 2: one up, one down
 
 ## Up/positive/went well
-Live coding interesting and also how to do official workshops
-Liked faded examples
-Liked videoed exercises, useful, not seen myself before on screen
-All chunks of the course useful
-Discussions about prep of workshops, surveys, understanding learners, background
-Presentation exercises really good, felt comfortable doing it in front of a small group of people
-Trainers presented well, it went smoothly 
-Lot of content
-Pre-workshop communication was really good
+- Live coding interesting and also how to do official workshops
+- Liked faded examples
+- Liked videoed exercises, useful, not seen myself before on screen
+- All chunks of the course useful
+- Discussions about prep of workshops, surveys, understanding learners, background
+- Presentation exercises really good, felt comfortable doing it in front of a small group of people
+- Trainers presented well, it went smoothly 
+- Lot of content
+- Pre-workshop communication was really good
 
 ## Down/negative/to improve
-Building website exercise could have been done as homework, no point in doing it in class
-Instructors to come more down to learners to give feedback, get our level of feedback
-Loads of different pages to open, overwhelming
-Repeated live coding video maybe not so useful as not much to improve on based on feedback they got - not enough to justify the 2nd exercise
-People get tired - shorter sessions, maybe more homework and less class time
-More time for practical exercises, especially for new instructors
-Exercises very useful, you hear a lot and think a lot but actually hard to handle in real life situations - take more time to do some exercises e.g. 10 minutes for live coding 
-Later start time, 10am-4pm, to recognise caring responsibilities and travel time
-Least interactive work - how Carpentries work - put that before lunch or first thing in the morning and not after lunch
+- Building website exercise could have been done as homework, no point in doing it in class
+- Instructors to come more down to learners to give feedback, get our level of feedback
+- Loads of different pages to open, overwhelming
+- Repeated live coding video maybe not so useful as not much to improve on based on feedback they got - not enough to justify the 2nd exercise
+- People get tired - shorter sessions, maybe more homework and less class time
+- More time for practical exercises, especially for new instructors
+- Exercises very useful, you hear a lot and think a lot but actually hard to handle in real life situations - take more time to do some exercises e.g. 10 minutes for live coding 
+- Later start time, 10am-4pm, to recognise caring responsibilities and travel time
+- Least interactive work - how Carpentries work - put that before lunch or first thing in the morning and not after lunch
 
+# Additional feedback recevied throughout the workshop
+- Move introduction to Carpentries lesson to Day 1 morning as not everyone is familiar with the community and how it operates so it helps put things into context
+- Start time should maybe be 9:30am 
