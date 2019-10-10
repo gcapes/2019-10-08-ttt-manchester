@@ -50,6 +50,25 @@
 - some aspects were common sense, but in new ways
 - home work
 
+# Lunch time day 2: sticky notes
+## Positive
+- Live coding demos with feedback (*5)
+- Two rounds of live coding
+- Concept of reverse instructional design
+- Learning objectives will help focus development of my own teaching material
+- Good exercises and slides content
+- Presenting practice (*2)
+- Seeing other people's ideas
+- Instructors really approachable with questions
+
+## Negative
+- 3 mins live coding is difficult out of context of the whole lesson
+- Live coding feedback from the instructors would have been nice
+- Fast paced
+- Would have liked to live-code for longer than 3 mins (*3)
+- Make more time to summarise people's comments from the shared document
+- Too much time for live coding (group of 2)
+
 # End of Day 2: one up, one down
 
 ## Up/positive/went well
